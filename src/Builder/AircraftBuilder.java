@@ -1,4 +1,4 @@
-package BuilderPattern;
+package Builder;
 
 public abstract class AircraftBuilder {
     public void buildEngine() {

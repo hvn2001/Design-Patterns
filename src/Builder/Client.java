@@ -1,8 +1,4 @@
-package BuilderPattern;
-
-import com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl;
-
-import javax.xml.parsers.DocumentBuilder;
+package Builder;
 
 public class Client {
     public void main() {

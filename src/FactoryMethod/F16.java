@@ -1,4 +1,4 @@
-package FactoryMethodPattern;
+package FactoryMethod;
 
 public class F16 {
     /*

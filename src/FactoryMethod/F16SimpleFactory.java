@@ -1,4 +1,4 @@
-package FactoryMethodPattern;
+package FactoryMethod;
 
 public class F16SimpleFactory {
     public F16 makeF16(String variant) {

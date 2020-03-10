@@ -1,4 +1,4 @@
-package PrototypePattern;
+package Prototype;
 
 public class Client {
     public void main() {

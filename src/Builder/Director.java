@@ -1,4 +1,4 @@
-package BuilderPattern;
+package Builder;
 
 public class Director {
 

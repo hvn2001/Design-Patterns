@@ -1,4 +1,4 @@
-package PrototypePattern;
+package Prototype;
 
 public class F16 implements IAircraftPrototype {
 

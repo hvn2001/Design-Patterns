@@ -1,4 +1,4 @@
-package BuilderPattern;
+package Builder;
 
 public class F16 implements IAircraft {
     @Override
